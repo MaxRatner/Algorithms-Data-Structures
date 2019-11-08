@@ -1,0 +1,3 @@
+/Users/maximfominykh/CLionProjects/min_dist_between_2_segments/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/maximfominykh/CLionProjects/min_dist_between_2_segments/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/maximfominykh/CLionProjects/min_dist_between_2_segments/cmake-build-debug/CMakeFiles/min_dist_between_2_segments.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/maximfominykh/CLionProjects/convex_hull/main.cpp
+algorithm
+-
+cmath
+-
+iostream
+-
+vector
+-
+

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MInkovsky_sum"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MInkovsky_sum">
+				<Option output="/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/MInkovsky_sum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 MInkovsky_sum"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MInkovsky_sum/fast">
+				<Option output="/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/MInkovsky_sum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 MInkovsky_sum/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/maximfominykh/CLionProjects/MInkovsky_sum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/maximfominykh/CLionProjects/MInkovsky_sum/main.cpp">
+			<Option target="MInkovsky_sum"/>
+		</Unit>
+		<Unit filename="/Users/maximfominykh/CLionProjects/MInkovsky_sum/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

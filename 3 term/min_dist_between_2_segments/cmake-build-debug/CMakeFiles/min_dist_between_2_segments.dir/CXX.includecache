@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/maximfominykh/CLionProjects/min_dist_between_2_segments/main.cpp
+iostream
+-
+iomanip
+-
+cmath
+-
+
